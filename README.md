@@ -17,6 +17,3 @@
 
 ## Demo
 ![](https://raw.githubusercontent.com/pantc12/PCCUSurveyOneClick/master/images/demo.gif)
-
-## 結果
-![](https://raw.githubusercontent.com/pantc12/PCCUSurveyOneClick/master/images/result.png)
