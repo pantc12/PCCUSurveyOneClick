@@ -5,8 +5,10 @@
 ## 步驟
 1. 新增一個書籤
     * 名稱：隨意
-    * 網址：複製 PCCUSurveyOneClick.js 內的程式碼並貼上
-    
+    * 網址：
+      * 期中教學意見調查複製 PCCUSurveyOneClick.js 內的程式碼並貼上
+      * 期末教學意見調查複製 PCCUSurveyOneClickFinal.js 內的程式碼並貼上
+
     ![](https://raw.githubusercontent.com/pantc12/PCCUSurveyOneClick/master/images/bookmark.png)
 
 2. 登入 文化大學 [**學生專區**](https://ap1.pccu.edu.tw/index.asp?user=student)
